@@ -1,0 +1,3 @@
+SELECT * FROM set1
+UNION
+SELECT * FROM set2;
